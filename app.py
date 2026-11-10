@@ -1,0 +1,1 @@
+print("github configuration is successful")
